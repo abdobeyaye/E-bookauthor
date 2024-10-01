@@ -9,6 +9,7 @@ This repository contains a Google Colab notebook for generating books using AI m
 - 📖 **Chapter Writing**: Write full chapters with rich descriptive language, vivid imagery, and emotional depth.
 - 🖋️ **Front and Back Matter**: Generate dedications, epigraphs, prefaces, acknowledgments, afterwords, glossaries, and author biographies.
 - 📄 **DOCX Export**: Save the generated book as a DOCX file with custom styles and formatting.
+- 🎨 **Book Cover Creation**: Use www.ibsar.art to create stunning book covers for free (see below for details).
 
 ## 🚀 Usage
 
@@ -35,16 +36,22 @@ This repository contains a Google Colab notebook for generating books using AI m
    - The notebook will generate a DOCX file containing your book.
    - Look for the download link or file in the Colab environment to save your generated book.
 
+6. **Create a Book Cover:**
+   - Visit [www.ibsar.art](https://www.ibsar.art) to create a free, stunning cover for your generated book.
+   - Use the title and themes from your generated book to inspire your cover design.
+
 ## 🛠️ Customization
 
 - Modify the prompts and styles in the notebook cells to better suit your needs.
 - Adjust the model parameters such as `temperature` and `max_tokens` to influence the creativity and length of the generated content.
+- Experiment with different prompts on www.ibsar.art to create the perfect cover for your book.
 
 ## ⚠️ Important Notes
 
 - This notebook is designed to run exclusively in Google Colab and is not intended for local execution.
 - Ensure you have a stable internet connection while using the notebook.
 - The generated content is saved within the Colab environment. Make sure to download your files before closing the session.
+- www.ibsar.art is an external service. Please refer to their website for usage terms and conditions.
 
 ## 🤝 Contributing
 
