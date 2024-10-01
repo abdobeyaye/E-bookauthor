@@ -11,6 +11,14 @@ This repository contains a Google Colab notebook for generating books using AI m
 - 📄 **DOCX Export**: Save the generated book as a DOCX file with custom styles and formatting.
 - 🎨 **Book Cover Creation**: Use www.ibsar.art to create stunning book covers for free (see below for details).
 
+## 📘 Example Output
+
+To see an example of what this tool can produce, check out the PDF file in this repository:
+
+- **[Sultans of Sunset: The Golden Ages of Ottoman Splendor.pdf](./Sultans%20of%20Sunset%20The%20Golden%20Ages%20of%20Ottoman%20Splendor.pdf)**
+
+This example showcases the quality and depth of content that can be generated using this AI book writing tool.
+
 ## 🚀 Usage
 
 1. **Open the Notebook in Google Colab:**
